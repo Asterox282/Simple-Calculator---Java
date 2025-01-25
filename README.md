@@ -7,4 +7,4 @@ all input have type of String where input has been converted to an Integer, ther
 If inserted value cannot be converted to an integer (for example a leeter or a decimal value) then application will raise an error, however no error message will be displayed to user.
 +, -, x, / ale allowed operators, and if division operator is used then result will be a float number; to give an user more accurate result.
 
-This application doesn't have s short circuit approach, therefore it is possible to insert invalid operator, but application will not give a result, instead iw will raise an error
+This application doesn't have s short circuit approach, therefore it is possible to insert invalid operator, but application will not give a result, instead it will raise an error
